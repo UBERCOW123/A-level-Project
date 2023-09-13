@@ -20,13 +20,3 @@ Tutorial:
 Maze:
 
 ![image](https://github.com/UBERCOW123/A-level-Project/assets/110287342/2bf998bc-f5f1-4e21-af0c-d4699c02d0d3)
-
-
-maze generation (depth first):
-
-![image](https://github.com/UBERCOW123/A-level-Project/assets/110287342/b32d5b02-2825-4fbc-8130-4b1ed10c035d)
-
-
-running an algorithm (dijkstras):
-
-![image](https://github.com/UBERCOW123/A-level-Project/assets/110287342/2b87d059-e4c4-4bfa-b44c-6b41f37ef783)
