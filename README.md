@@ -20,3 +20,8 @@ Tutorial:
 Maze:
 
 ![image](https://github.com/UBERCOW123/A-level-Project/assets/110287342/2bf998bc-f5f1-4e21-af0c-d4699c02d0d3)
+
+
+Search Algorithm (A*):
+
+![image](https://github.com/UBERCOW123/A-level-Project/assets/110287342/101fa5c6-3d18-4e11-8952-4b8bd39e177d)
